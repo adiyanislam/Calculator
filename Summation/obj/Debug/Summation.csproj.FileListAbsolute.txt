@@ -1,0 +1,9 @@
+c:\users\adiyan\documents\visual studio 2013\Projects\Summation\bin\Debug\Summation.exe.config
+c:\users\adiyan\documents\visual studio 2013\Projects\Summation\bin\Debug\Summation.exe
+c:\users\adiyan\documents\visual studio 2013\Projects\Summation\bin\Debug\Summation.pdb
+c:\users\adiyan\documents\visual studio 2013\Projects\Summation\obj\Debug\Summation.csprojResolveAssemblyReference.cache
+c:\users\adiyan\documents\visual studio 2013\Projects\Summation\obj\Debug\Summation.Form1.resources
+c:\users\adiyan\documents\visual studio 2013\Projects\Summation\obj\Debug\Summation.Properties.Resources.resources
+c:\users\adiyan\documents\visual studio 2013\Projects\Summation\obj\Debug\Summation.csproj.GenerateResource.Cache
+c:\users\adiyan\documents\visual studio 2013\Projects\Summation\obj\Debug\Summation.exe
+c:\users\adiyan\documents\visual studio 2013\Projects\Summation\obj\Debug\Summation.pdb
